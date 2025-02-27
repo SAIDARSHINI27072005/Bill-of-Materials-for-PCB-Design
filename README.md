@@ -1,7 +1,6 @@
-# Bill-of-Materials-for-PCB-Design
+![image](https://github.com/user-attachments/assets/443d4324-576f-40da-aec7-058b34ba67f1)![image](https://github.com/user-attachments/assets/9c9e0161-cfed-4b6c-8bab-a792e082c82e)# Bill-of-Materials-for-PCB-Design
 # Aim
-
-To prepare the Bill of Material for the given circuit.
+To compile a comprehensive Bill of Materials (BOM) for the given PCB design, ensuring accurate component selection, cost estimation, and procurement planning.
 
 # Software’s required
 
@@ -59,10 +58,14 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+![WhatsApp Image 2025-02-27 at 18 28 30_52faf2ed](https://github.com/user-attachments/assets/10dc846e-5493-4ecc-8f67-be932dc5751d)
 
 
 
 # Output
+
+
+![image](https://github.com/user-attachments/assets/d39f135e-4c85-438e-81a6-67bc8c350568)
 
 
 
